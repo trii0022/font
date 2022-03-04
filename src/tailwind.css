@@ -8,3 +8,9 @@
     background-image: url("img/component.png");
   }
 }
+
+@layer base {
+  body {
+    font-family: "Montserrat", sans-serif;
+  }
+}
